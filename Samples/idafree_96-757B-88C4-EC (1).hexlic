@@ -1,0 +1,40 @@
+{
+  "payload": {
+    "name": "sathwik.prakki.quickheal@gmail.com",
+    "email": "sathwik.prakki.quickheal@gmail.com",
+    "licenses": [
+      {
+        "id": "96-757B-88C4-EC",
+        "owner": "sathwik.prakki.quickheal@gmail.com",
+        "product_id": "IDAFREE",
+        "edition_id": "ida-free",
+        "description": "IDA Free PC",
+        "start_date": "2026-07-10",
+        "end_date": "2027-07-10",
+        "issued_on": "2025-03-29 09:38:15",
+        "license_type": "named",
+        "seats": 1,
+        "add_ons": [
+          {
+            "id": "97-C69B-8973-16",
+            "code": "HEXCX64",
+            "owner": "96-757B-88C4-EC",
+            "start_date": "2026-07-10",
+            "end_date": "2027-07-10"
+          },
+          {
+            "id": "97-D583-AB51-DB",
+            "code": "HEXCX86",
+            "owner": "96-757B-88C4-EC",
+            "start_date": "2026-07-10",
+            "end_date": "2027-07-10"
+          }
+        ]
+      }
+    ]
+  },
+  "header": {
+    "version": 1
+  },
+  "signature": "3FE410D79E8D69B98C022FF014B6F7B6EF8C608117D25DF2AD59B1FAB4CC660432C0E15DB811957430A53575FCE8A5BF5A6760364DF93CA4876AA5A6DF8243A8D25736D635BF9C4A5415E8EAF31349919CC5490E44B2626FEF26758A155C53E2BA219DE70FB5995DAA7D2D70A86B211A2A26528196773B888AA75B9974722602"
+}
